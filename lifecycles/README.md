@@ -1,2 +1,3 @@
-## goals
+# lifecycles
+
 build good habits
