@@ -6,8 +6,8 @@ morning time
 - [ ] no screens for 30 mins
 - [ ] plan day
 - [ ] morning pills
-- [ ] [wrist_stretch](wrist_stretch.md) + [body_stretch](body_stretch.md)
-- [ ] [workout/cardio](!%20LIFE/git-clone/me/fitness/README.md)
+- [ ] morning stretches
+- [ ] workout/cardio
 - [ ] tea + shilajit
 - [ ] shake
 
@@ -26,7 +26,7 @@ evening time
 - [ ] shower + lotion
 - [ ] blue light blocking glasses on @ 7:30~
 - [ ] food cutoff time @ 7:30~
-- [ ] night stretch or stretches
+- [ ] night stretches
 - [ ] white noise/rain sound 1 hour before bed @ 9~
 - [ ] write - what happened today
 - [ ] night tea
