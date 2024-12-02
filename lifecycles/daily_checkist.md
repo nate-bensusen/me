@@ -1,5 +1,7 @@
+# daily checklist
 
 morning time
+
 - [ ] wake up @ 6~
 - [ ] no screens for 30 mins
 - [ ] plan day
@@ -10,6 +12,7 @@ morning time
 - [ ] shake
 
 noon time
+
 - [ ] nuts + berries
 - [ ] lunch food
 - [ ] cardio break?
@@ -17,6 +20,7 @@ noon time
 - [ ] pills with food
 
 evening time
+
 - [ ] dinner food
 - [ ] read
 - [ ] shower + lotion

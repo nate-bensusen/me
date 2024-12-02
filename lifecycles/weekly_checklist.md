@@ -1,2 +1,3 @@
+# weekly checklist
 
-laundry
+- [ ] laundry
