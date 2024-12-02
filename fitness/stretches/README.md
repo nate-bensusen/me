@@ -1,9 +1,9 @@
-[wrist_stretch](wrist_stretch.md)
-https://youtu.be/5OWbZ9Oxz0E?si=VdUjQH03i76HFB4N
+# Stretches
 
-[body_stretch](body_stretch.md)
-https://youtu.be/pgCGm6-q2G8?si=70WzS7Zbq-fhEITS
+[wrist_stretches](wrist_stretch.md)
 
-[night_stretch_1](night_stretch_1.md)
+[body_stretches](body_stretch.md)
 
-[night_stretch_2](night_stretch_2.md)
+[night_stretches_1](night_stretch_1.md)
+
+[night_stretches_2](night_stretch_2.md)
