@@ -3,6 +3,7 @@
 morning time
 
 - [ ] wake up @ 6~
+- [ ] brush teeth
 - [ ] no screens for 30 mins
 - [ ] plan day
 - [ ] morning pills
@@ -26,6 +27,7 @@ evening time
 - [ ] shower + lotion
 - [ ] blue light blocking glasses on @ 7:30~
 - [ ] food cutoff time @ 7:30~
+- [ ] brush teeth
 - [ ] night stretches
 - [ ] white noise/rain sound 1 hour before bed @ 9~
 - [ ] write - what happened today
