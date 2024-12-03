@@ -2,6 +2,12 @@
 
 do at least 6 hours a week of 100+ BPM activity
 
+## everyday training
+
+- balance on ball of foot 90s
+- hang long time 90s
+- grip squeeze
+
 ## cardio
 
 - cycling
