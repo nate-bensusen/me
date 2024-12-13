@@ -14,7 +14,7 @@ Use the [Daily checklist template](../loops/daily_checklist.md) to add days.
 An example of an excellent day would be something like this:
 
 - 2024/
-  - [Feb.md](../log/2024/02_Feb-ex.md)
+  - [02_Feb.md](../log/2024/02_Feb-ex.md)
 
 ## organization
 
