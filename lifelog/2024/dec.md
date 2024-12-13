@@ -27,7 +27,8 @@
 ### night routine
 
 - [x] blue light blockers at 7:30
-- [x] food cutoff at 7:30
-
+- [x] food cutoff at 9:30
+- [x] brushed teeth
+- [x] shower + lotion
 - [x] bedtime pills
 - [x] valerian tea
