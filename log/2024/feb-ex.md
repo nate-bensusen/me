@@ -10,9 +10,10 @@
 
 - [x] no screens 30m
 - [x] read 1 ch or sect
-- [x] stretch
-- [x] brush teeth
 
+- [x] morning stretch
+
+- [x] brush teeth
 - [x] morning pills
 - [x] cinna tea shilajit
 
@@ -47,30 +48,35 @@
 #### night stretching
 
 - [x] night stretching 1
-- [x] night stretching 1
+- [x] night stretching 2
 
 ### food log
 
 - [x] shake
-- [x] nuts & berries
-- [x] food
-- [x] food
-- [x] food
-- [x] food
-- [x] snack
-- [x] snack
-- [x] snack
-- [x] snack
 
-- [x] after lunch food pills
+- [x] nuts + berries
 
-### what happened today? or short journal of events. (and a shorter title for this bullet point)
+- [ ] lunch food
+  - ???
 
-- make a template of questions to answer here
+- [x] pills after food
+
+- [ ] snacks
+  - ???
+
+- [ ] dinner food
+  - ???
+
+### reflection
+
+- what important things happened today?
+- how did today make you feel?
+- today's progress?
 
 ### night routine
 
 - [x] shower + lotion
+
 - [x] blue light blockers at 7:30
 - [x] food cutoff at 7:30
 
@@ -78,5 +84,6 @@
 
 - [x] bedtime pills
 - [x] valerian tea
+
 - [x] brush teeth
 - [x] stretch
