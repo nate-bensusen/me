@@ -16,6 +16,8 @@ ie(or eg?)
 
 (if months get sorted non-chronologically, prepend 01-12 to the md file name.)
 
+## Content
+
 each month should have each day as a # # subheading and some kind of the following set of list completed and filled out
 
 - lifelog { ## - date
