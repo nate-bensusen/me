@@ -18,12 +18,10 @@ An example of an excellent day would be something like this:
 
 ## organization
 
-> Note to self: if months get sorted non-chronologically, prepend 01-12 to the file name.
-
 - 2024/
-  - Oct.md
-  - Nov.md
-  - Dec.md
+  - 10_Oct.md
+  - 11_Nov.md
+  - 12_Dec.md
 - 2025/
-  - Jan.md
-  - Feb.md
+  - 01_Jan.md
+  - 02_Feb.md
