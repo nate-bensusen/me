@@ -22,7 +22,7 @@ Copy the template below and paste it into the current month log file:
     - [ ] morning wrist stretch
     - [ ] morning body stretch
 
-    ### workout - 90s rest
+    #### workout - 90s rest
 
     - [ ] Leg/Push/Pull or cardio
 
