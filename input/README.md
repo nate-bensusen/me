@@ -1,6 +1,6 @@
 # input
 
-[food](./food/README.md)
-[vitamins and supplements](./pills/README.md)
-readings
-watchings
+- [food](./food/README.md)
+- [pills](./pills/README.md)
+- [booklist](booklist.md)
+- watchings
