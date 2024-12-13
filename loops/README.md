@@ -1,3 +1,3 @@
-# lifecycles
+# loops
 
 build good habits
