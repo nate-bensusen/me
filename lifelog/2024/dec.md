@@ -1,6 +1,6 @@
 # december 2024
 
-## 12
+## 12 - Thursday
 
 ### morning routine
 
@@ -32,3 +32,10 @@
 - [x] shower + lotion
 - [x] bedtime pills
 - [x] valerian tea
+
+## 13 - Friday
+
+### morning routine
+
+- [x] morning pills
+- [x] cinna tea - no shilajit (t-break)
