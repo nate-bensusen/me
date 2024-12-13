@@ -39,3 +39,7 @@
 
 - [x] morning pills
 - [x] cinna tea - no shilajit (t-break)
+
+### food log
+
+- habanero walking tamale
