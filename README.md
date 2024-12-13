@@ -22,6 +22,7 @@ Me, living like I'm a video game character. These are the skills, talents, and s
 
 - exercise 6 days a week
 - my goal is to do 6+ hours a week of 100+ bpm stuff
+- read at least once a day
 
 ## Where
 
