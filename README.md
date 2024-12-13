@@ -18,14 +18,6 @@ Me, living like I'm a video game character. These are the skills, talents, and s
 
 - my goal is to stay in contact and keep in touch sincerely.
 
-## Why
-
-- to stay physically resilient
-- to fight mental stagnation
-- to be able to play with nieces and nephews until they're tired
-- to record and reflect easier and more often
-- to make things easily sharable and open to contributions.
-
 ## When
 
 - exercise 6 days a week
@@ -37,6 +29,14 @@ Me, living like I'm a video game character. These are the skills, talents, and s
 - here
 - at home
 - on the road
+
+## Why
+
+- to stay physically resilient
+- to fight mental stagnation
+- to be able to play with nieces and nephews until they're tired
+- to record and reflect easier and more often
+- to make things easily sharable and open to contributions.
 
 ## How
 
