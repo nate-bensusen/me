@@ -3,7 +3,7 @@
 Here is where I will upload my monthly progress.
 
 - [2024/](../log/2024/)
-  - [12_Dec.md](../log/2024/12_Dec.md)
+  - [12_Dec.md](./log/2024/12_Dec.md)
 
 ## content
 
@@ -14,7 +14,7 @@ Use the [Daily checklist template](../loops/daily_checklist.md) to add days.
 An example of an excellent day would be something like this:
 
 - 2024/
-  - [02_Feb.md](../log/2024/02_Feb-ex.md)
+  - [02_Feb.md](./log/2024/02_Feb-ex.md)
 
 ## organization
 
