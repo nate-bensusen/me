@@ -1,10 +1,24 @@
 # log
 
-in here i will upload my progress monthly
+Here is where I will upload my monthly progress.
 
-ie(or eg?)
+- [2024/](../log/2024/)
+  - [Dec.md](../log/2024/dec.md)
 
-## structure
+## content
+
+Use the [Daily checklist template](../loops/daily_checklist.md) to add days.
+
+### example
+
+An example of an excellent day would be something like this:
+
+- 2024/
+  - [Feb.md](../log/2024/feb-ex.md)
+
+## organization
+
+> Note to self: if months get sorted non-chronologically, prepend 01-12 to the file name.
 
 - 2024/
   - Oct.md
@@ -13,24 +27,3 @@ ie(or eg?)
 - 2025/
   - Jan.md
   - Feb.md
-
-(if months get sorted non-chronologically, prepend 01-12 to the md file name.)
-
-## Content
-
-each month should have each day as a # # subheading and some kind of the following set of list completed and filled out
-
-- lifelog { ## - date
-  - daily checklist
-  - exercise log
-  - food log
-  - what happened today? or short journal of events. (and a shorter title for this bullet point)
-
-  }
-
-## example
-
-an example of an excellent day would be something like this
-
-- 2024/
-  - [Feb.md](../log/2024/feb-ex.md)
