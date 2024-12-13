@@ -18,5 +18,5 @@ things i do or create
 [loops](/loops/README.md)
 things that help keep track of input and output
 
-[log or lifelog](/lifelog/README.md)
+[log](/log/README.md)
 a log to record input and ouput
