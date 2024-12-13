@@ -11,6 +11,7 @@
 - [x] no screens 30m
 - [x] read 1 ch or sect
 - [x] stretch
+- [x] brush teeth
 
 - [x] morning pills
 - [x] cinna tea shilajit
@@ -69,6 +70,7 @@
 
 ### night routine
 
+- [x] shower + lotion
 - [x] blue light blockers at 7:30
 - [x] food cutoff at 7:30
 
@@ -76,5 +78,5 @@
 
 - [x] bedtime pills
 - [x] valerian tea
-
+- [x] brush teeth
 - [x] stretch
