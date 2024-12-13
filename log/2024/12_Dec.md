@@ -91,6 +91,8 @@
 - what important things happened today?
 - how did today make you feel?
 - today's progress?
+  - I got a section of the hallway cleaned up and organized
+  - added a lot to git/me
 
 ### night routine
 
