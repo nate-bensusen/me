@@ -9,14 +9,14 @@ My goal is to ride or jump rope
 
 live life like I'm a video game character. What stats do I want to min max and how am I going to do that?
 
-[input](../me/input/README.md)
+[input](/input/README.md)
 things i eat watch or read
 
-[output](../me/output/README.md)
+[output](/output/README.md)
 things i do or create
 
-[loops](../me/loops/README.md)
+[loops](/loops/README.md)
 things that help keep track of input and output
 
-[log or lifelog](../me/lifelog/README.md)
+[log or lifelog](/lifelog/README.md)
 a log to record input and ouput
