@@ -4,7 +4,7 @@
 
 ...
 
-## 30 - [daily checklist](../lifecycles/daily_checkist.md)
+## 30 - [daily checklist](../../lifecycles/daily_checkist.md)
 
 ### morning routine
 
@@ -24,7 +24,7 @@
 
 #### workout - 90s rest
 
-- [x] [Legs calisthenics beginner - template](../fitness/beginner%20calisthenics/Legs.md)
+- [x] [Legs calisthenics beginner - template](../../fitness/beginner%20calisthenics/Legs.md)
 
 |leg exercise|sets x reps|s1|s2|s3|
 |-|-|-|-|-|
@@ -52,14 +52,14 @@
 
 - [x] shake
 - [x] nuts & berries
-food
-food
-food
-food
-snack
-snack
-snack
-snack
+- [x] food
+- [x] food
+- [x] food
+- [x] food
+- [x] snack
+- [x] snack
+- [x] snack
+- [x] snack
 
 - [x] after lunch food pills
 
