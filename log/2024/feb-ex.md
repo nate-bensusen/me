@@ -1,10 +1,10 @@
 # february 2024
 
-## 29 - daily checklist
+## 29 - Thursday
 
 ...
 
-## 30 - [daily checklist](../../lifecycles/daily_checkist.md)
+## 30 - Someday
 
 ### morning routine
 
