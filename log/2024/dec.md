@@ -5,19 +5,32 @@
 ### morning routine
 
 - [x] read 1 ch or sect
+
 - [x] morning pills
-- [x] cinna tea - no shilajit (t-break)
+- [x] cinna tea (no shilajit, t-break)
+
+### exercise log
+
+#### morning stretching
+
+#### workout - 90s rest
+
+#### afternoon/evening extras
+
+#### night stretching
 
 ### food log
 
-- protein fortified almond milk mushroom matcha tea
-- protein fortified almond milk mushroom tea
-- taco bell
-  - 2 burritos
+- lunch food
+  - taco bell - 2 burritos
 
-- [x] after lunch food pills
+- [x] pills after food
 
-### what happened today? or short journal of events. (and a shorter title for this bullet point)
+- snacks
+  - protein fortified almond milk mushroom matcha tea
+  - protein fortified almond milk mushroom tea
+
+### reflection
 
 - woke up early for a UK interview that went well
 - got some docu done at work
@@ -26,21 +39,72 @@
 
 ### night routine
 
-- [x] blue light blockers at 7:30
-- [x] food cutoff at 9:30
-- [x] brushed teeth
 - [x] shower + lotion
+
+- [x] blue light blockers at 7:30
+
 - [x] bedtime pills
 - [x] valerian tea
+
+- [x] brush teeth
 
 ## 13 - Friday
 
 ### morning routine
 
 - [x] morning pills
-- [x] cinna tea - no shilajit (t-break)
+- [x] cinna tea (no shilajit, t-break)
+
+### exercise log
+
+#### morning stretching
+
+#### workout - 90s rest
+
+#### afternoon/evening extras
+
+- [ ] ball of foot balance - 90s ea
+- [ ] hollow body hang - 90s
+- [ ] grip squeeze - 150lb 3 x 10 ea
+
+#### night stretching
+
+- [ ] night stretching 1
+- [ ] night stretching 2
 
 ### food log
 
 - habanero walking tamale
 - fortified almond milk matcha tea
+
+- [ ] lunch food
+  - ???
+
+- [x] pills after food
+
+- [ ] snacks
+  - ???
+
+- [ ] dinner food
+  - ???
+
+### reflection
+
+- what important things happened today?
+- how did today make you feel?
+- today's progress?
+
+### night routine
+
+- [ ] shower + lotion
+
+- [ ] blue light blockers at 7:30
+- [ ] food cutoff at 7:30
+
+- [ ] read 1 ch or sect
+
+- [ ] bedtime pills
+- [ ] valerian tea
+
+- [ ] brush teeth
+- [ ] stretch
