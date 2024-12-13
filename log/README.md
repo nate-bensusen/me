@@ -33,4 +33,4 @@ each month should have each day as a # # subheading and some kind of the followi
 an example of an excellent day would be something like this
 
 - 2024/
-  - [Feb.md](../lifelog/2024/feb-ex.md)
+  - [Feb.md](../log/2024/feb-ex.md)

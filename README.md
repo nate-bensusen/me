@@ -8,3 +8,15 @@ my goal is to do at least one a week of each: Legs, Push, Pull
 My goal is to ride or jump rope
 
 live life like I'm a video game character. What stats do I want to min max and how am I going to do that?
+
+[input](/input/README.md)
+things i eat watch or read
+
+[output](/output/README.md)
+things i do or create
+
+[loops](/loops/README.md)
+things that help keep track of input and output
+
+[log](/log/README.md)
+a log to record input and ouput
