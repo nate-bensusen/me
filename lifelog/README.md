@@ -7,13 +7,18 @@ ie(or eg?)
 ## structure
 
 - 2024/
+  - Oct.md
+  - Nov.md
   - Dec.md
 - 2025/
   - Jan.md
+  - Feb.md
 
-each month should have each day as a subheading and some kind of the following set of list completed and filled out
+(if months get sorted non-chronologically, prepend 01-12 to the md file name.)
 
-- lifelog { ### date
+each month should have each day as a # # subheading and some kind of the following set of list completed and filled out
+
+- lifelog { ## - date
   - daily checklist
   - exercise log
   - food log
@@ -26,4 +31,4 @@ each month should have each day as a subheading and some kind of the following s
 an example of an excellent day would be something like this
 
 - 2024/
-  - [Feb.md](feb-ex.md)
+  - [Feb.md](../lifelog/2024/feb-ex.md)
