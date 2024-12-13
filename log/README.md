@@ -3,7 +3,7 @@
 Here is where I will upload my monthly progress.
 
 - [2024/](../log/2024/)
-  - [Dec.md](../log/2024/12_Dec.md)
+  - [Dec.md](../log/2024/12_dec.md)
 
 ## content
 
