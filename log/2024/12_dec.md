@@ -74,8 +74,6 @@
 
 ### food log
 
-- habanero walking tamale
-- fortified almond milk matcha tea
 
 - [ ] lunch food
   - ???
@@ -83,7 +81,8 @@
 - [x] pills after food
 
 - [ ] snacks
-  - ???
+  - habanero walking tamale
+  - fortified almond milk matcha tea
 
 - [ ] dinner food
   - ???
