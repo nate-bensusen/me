@@ -43,15 +43,15 @@ Copy the template below and paste it into the current month log file:
 
     - [ ] nuts + berries
 
-    - [ ] lunch food
+    - lunch food
       - ???
 
     - [ ] pills after food
 
-    - [ ] snacks
+    - snacks
       - ???
 
-    - [ ] dinner food
+    - dinner food
       - ???
 
     ### reflection
