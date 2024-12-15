@@ -60,6 +60,8 @@ Copy the template below and paste it into the current month log file:
     - how did today make you feel?
     - today's progress?
 
+    ### plan tomorrow
+
     ### night routine
 
     - [ ] shower + lotion
