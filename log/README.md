@@ -2,8 +2,22 @@
 
 Here is where I will upload my monthly progress.
 
-- [2024/](../log/2024/)
-  - [12_Dec.md](./2024/12_Dec.md)
+## 2025
+
+## 2024
+
+- January
+- [February Example](2024-02.md)
+- March
+- April
+- May
+- June
+- July
+- August
+- September
+- October
+- November
+- [December](2024-12.md)
 
 ## content
 
@@ -13,15 +27,4 @@ Use the [Daily checklist template](../loops/daily_checklist.md) to add days.
 
 An example of an excellent day would be something like this:
 
-- 2024/
-  - [02_Feb.md](./2024/02_Feb-ex.md)
-
-## organization
-
-- 2024/
-  - 10_Oct.md
-  - 11_Nov.md
-  - 12_Dec.md
-- 2025/
-  - 01_Jan.md
-  - 02_Feb.md
+- [2024-02.md](2024-02.md)
