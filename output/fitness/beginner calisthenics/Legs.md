@@ -1,6 +1,6 @@
 # Legs
 
-built from this youtube video https://www.youtube.com/watch?v=GUXa-ByKCkc
+designed from this youtube video https://www.youtube.com/watch?v=GUXa-ByKCkc
 re-ordered for hardest to easiest exercises for muscle fatigue
 
 |leg exercise|sets x reps|s1|s2|s3|
