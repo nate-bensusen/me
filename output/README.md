@@ -1,5 +1,5 @@
 # output
 
-exercise/fitness
-writing
-creative things
+- [fitness](./fitness/README.md)
+- writing
+- creative things
