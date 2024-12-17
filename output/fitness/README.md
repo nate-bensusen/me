@@ -21,7 +21,7 @@ do at least 6 hours a week of 100+ BPM activity
 
 ## beginner calisthenics training
 
-[Morning stretching](./stretches/morning_stretches.md)
+[Morning stretches](./stretches/morning_stretches.md)
 
 - [Legs](./beginner%20calisthenics/Legs.md)
 - [Push](./beginner%20calisthenics/Push.md)
