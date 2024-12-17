@@ -1,5 +1,4 @@
 # Stretches
 
-## morning
-
-## night
+- [morning](morning_stretches.md)
+- [night](night_stretches.md)
