@@ -2,7 +2,7 @@
 
 do at least 6 hours a week of 100+ BPM activity
 
-## everyday training
+## every other day training
 
 - balance on ball of foot - 90s
 - hollow body hang - 90s
