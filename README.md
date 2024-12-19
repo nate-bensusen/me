@@ -82,5 +82,4 @@
   - (It's up to you to decide the way you go.)
 - It was all worth it
 - The sun never sets on your dreams
-
-[.](https://youtu.be/ri9IefTuNzc?si=Zvf6ubXcsL-6CM2W)
+- [.](https://youtu.be/ri9IefTuNzc?si=Zvf6ubXcsL-6CM2W)
