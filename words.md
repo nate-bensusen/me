@@ -1,0 +1,19 @@
+
+- Don't ever give up
+- Everything worth doing is hard
+- The only time that matters is right now
+- It's okay to feel lost
+- Live life to the full because you never know what's around the corner
+- So let's take a part of the world and make it our own
+- Don't let the bastards grind you down
+- You saved me
+- Keep running on
+- There's no fate but what we make for ourselves
+- We always have each other
+- Keep your head up, kid
+- Always fear regret more than failure
+- Stay true to yourself
+- There is still good in the world
+- Expect nothing and appreciate everything
+- It was all worth it
+- The sun never sets on your dreams
