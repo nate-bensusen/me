@@ -55,8 +55,7 @@
 - You'll be okay, I promise
 - Just keep on keeping on
 - It's just a bad day, not a bad life
-- I'll always be there for you
-- I swear the breath from my lungs
+- I'll always be there for you, I swear the breath from my lungs
 - You'll feel it when you know
 - Life is worth the risk
 - Live long and prosper
