@@ -2,7 +2,7 @@
 
 Copy the template below and paste it into the current month log file:
 
-    ## \#\# - day_of_week
+    ## ## - day
 
     ### morning routine
 
