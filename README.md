@@ -76,9 +76,10 @@
 - Stay true to yourself
 - There is still good in the world
 - Expect nothing and appreciate everything
-- 二つに分かれた道は、ずっと君のためにある 
+- 二つに分かれた道は、ずっと君のためにある
   - (The path divided is always meant for you)
   - (The two paths split, and there's always one for you)
   - (It's up to you to decide the way you go.)
 - It was all worth it
 - The sun never sets on your dreams
+[.](https://youtu.be/ri9IefTuNzc?si=Zvf6ubXcsL-6CM2W)
