@@ -80,5 +80,6 @@
 - 二つに分かれた道は、ずっと君のためにある 
   - (The path divided is always meant for you)
   - (The two paths split, and there's always one for you)
+  - (It's up to you to decide the way you go.)
 - It was all worth it
 - The sun never sets on your dreams
