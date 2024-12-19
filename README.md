@@ -70,7 +70,6 @@
 - So let's take a part of the world and make it our own
 - Don't let the bastards grind you down
 - You saved me
-- Keep running on
 - There's no fate but what we make for ourselves
 - We always have each other
 - Keep your head up, kid
