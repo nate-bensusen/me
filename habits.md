@@ -8,22 +8,27 @@ section by three, learned or ingrained ones ive got good record on, im trying no
 
 Habits are learned loops. Or loops on autopilot.
 
-milestones in days I've reached
-|days|7|14|30|45|90|180|365|
+x = done
+X = prestiged
+
+milestones in days I've reached (with a ??% acceptable error(better word?) rate) failure rate? miss rate? 
+
+|consecutive days|7|14|30|45|90|180|365|
 |-:|-|-|-|-|-|-|-|
 |no screen wake up||||||||
-|pills||||||||
+|pills|x|x|x|x|x|||
 |read||||||||
-|shilajit||||||||
-|lotion||||||||
-|morning stretching||||||||
-|workout (PPL) x1 week||||||||
-|cardio x1 week||||||||
-|extra workouts||||||||
-|daily shake||||||||
+|shilajit|x|x|x|x|x|||
+|lotion|x|||||||
+|morning stretching|x|||||||
+|workout (PPL) x1 week|x|x||||||
+|cardio x1 week|x|x|x|||||
+|extra workouts|x|||||||
+|daily shake|x|||||||
 |daily nuts and berries||||||||
-|brush teeth daily||||||||
+|brush teeth daily|x|||||||
 |daily reflection||||||||
-|blue light glasses||||||||
+|blue light glasses|x|x|x|x|x|||
 |no food before bed||||||||
-|night stretching||||||||
+|night stretching|x|||||||
+|bedtime by 10p|x|x|x|x||||
