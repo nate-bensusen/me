@@ -32,3 +32,11 @@ milestones in days I've reached (with a ??% acceptable error(better word?) rate)
 |no food before bed||||||||
 |night stretching|x|||||||
 |bedtime by 10p|x|x|x|x||||
+
+|S|M|T|W|Th|F|S|
+|-|-|-|-|-|-|-|
+||||||||
+||||||||
+||||||||
+||||||||
+||||||||
