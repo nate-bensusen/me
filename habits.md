@@ -27,3 +27,5 @@ brush teeth daily
 morning stretching
 might stretching
 no food before bed
+daily shake
+daily nuts and berries
