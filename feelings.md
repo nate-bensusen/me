@@ -8,7 +8,7 @@ brain dump into garbage file
 
 go for a walk, hike, drive
 
-play something to 100% break concetration.
+play something to 100% break concentration.
 
 make new memories to fight holiday depressions
 
